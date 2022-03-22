@@ -1,1 +1,1 @@
- ![jcole-sec](../main/nyan.jpg)
+ ![jcole-sec](../main/nyan.png)
