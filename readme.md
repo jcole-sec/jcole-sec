@@ -1,1 +1,4 @@
- ![jcole-sec](../main/nyan.png)
+
+<p align="center">
+  <img src="../main/nyan.png">
+</p>
